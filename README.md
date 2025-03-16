@@ -1,6 +1,8 @@
 Hi 👋 My name is Augusto
 ========================
 
+<img src="./10615.jpg">
+
 Bem-vindo a'meu Carnaval!
 -------------------------
 
