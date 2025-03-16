@@ -31,7 +31,8 @@ src="https://img.shields.io/twitter/follow/Aogoosto?logo=twitter&style=for-the-b
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/Aogustos"><img src="https://github-readme-stats.vercel.app/api?username=Aogustos&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=000000&hide_border=true&show_icons=true" alt="Aogustos's GitHub stats" /></a>
 <a href="https://github.com/Aogustos" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aogustos&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+<a href="http://www.github.com/Aogustos"><img src="https://github-readme-stats.vercel.app/api?username=Aogustos&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=000000&hide_border=true&show_icons=true" alt="Aogustos's GitHub stats" /></a>
 
 <a href="http://www.github.com/Aogustos"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Aogustos&stroke=ffffff&background=000000&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
