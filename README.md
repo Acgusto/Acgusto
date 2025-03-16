@@ -8,7 +8,6 @@ Aspiring 𝗙𝘂𝗹𝗹 𝗦𝘁𝗮𝗰𝗸 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲�
 
 *   🌍  I'm based in 𝗕𝗿𝗮𝘀𝗶𝗹 aka football country aka carnival country aka caipirinha
 *   🖥️  See my portfolio at [I don't have one YET, still working on it :D](http://https://github.com/Aogustos)
-*   ✉️  You can contact me at [Don't contact me via email >:(](mailto:Don't contact me via email >:()
 *   🧠  I'm learning 𝗙𝗿𝗼𝗻𝘁-𝗘𝗻𝗱 𝗪𝗲𝗯 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁
 *   ⚡  That's it, i really want to learn more about whatever i can, and that includes computing stuff. Don't expect much from me but i do love research about it and make my own stuff (and the headaches). 𝗟𝗼𝘃𝗲 𝘁𝗼 𝗨 <𝟯
 
