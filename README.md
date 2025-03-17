@@ -9,6 +9,9 @@
       🌍  I'm based in 𝗕𝗿𝗮𝘀𝗶𝗹 aka football country aka carnival country aka caipirinha
     </p>
     <p>
+      🚀  I'm currently working on building small and medium 𝘄𝗲𝗯 𝗽𝗮𝗴𝗲𝘀
+    </p>
+    <p>
       🧠  I'm learning 𝗙𝗿𝗼𝗻𝘁-𝗘𝗻𝗱 𝗪𝗲𝗯 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁
     </p>
     <p>
