@@ -1,4 +1,6 @@
 <div align="center">
+  <h3>About Myself</h3>
+  
   <div>
     <p>
       Aspiring 𝗙𝘂𝗹𝗹 𝗦𝘁𝗮𝗰𝗸 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿, future 𝗦𝗼𝗳𝘁𝘄𝗮𝗿𝗲 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿, and even more future 𝗛𝗮𝗿𝗱𝘄𝗮𝗿𝗲 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿.
@@ -10,7 +12,7 @@
       🧠  I'm learning 𝗙𝗿𝗼𝗻𝘁-𝗘𝗻𝗱 𝗪𝗲𝗯 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁
     </p>
     <p>
-      ⚡  That's it, i really want to learn more about whatever i can, and that includes computing stuff. Don't expect much from me but i do love research about it and make my own stuff (and the headaches). 𝗟𝗼𝘃𝗲 𝘁𝗼 𝗨 <𝟯
+      ⚡  That's it, i really want to learn more about whatever i can, and that includes computing stuff. I do love research about it and to make my own stuff (and the headaches). 𝗟𝗼𝘃𝗲 𝘁𝗼 𝗨 <𝟯
     </p>
   </div> 
   <h3>Tech Stack</h3>
