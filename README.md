@@ -1,5 +1,3 @@
 <b>GitHub Stats</b>
-
-[![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/dark/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+![](https://github-readme-stats.vercel.app/api?username=Acgusto&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Acgusto&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
