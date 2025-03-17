@@ -6,6 +6,6 @@
 
 <div>
   <a href="https://github.com/Acgusto">
-  <img height="180em" width="57.5%" src="https://github-readme-stats.vercel.app/api?username=Acgusto&show_icons=true&theme=dark&include_all_commits=true&count_private=true">
-  <img height="180em" width="42.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Acgusto&layout=compact&langs_count=16&theme=dark">
+  <img height="180em" width="575px" src="https://github-readme-stats.vercel.app/api?username=Acgusto&show_icons=true&theme=dark&include_all_commits=true&count_private=true">
+  <img height="180em" width="425px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Acgusto&layout=compact&langs_count=16&theme=dark">
 </div>
