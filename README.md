@@ -1,4 +1,6 @@
 <div align="center">
+  <img src="./World square mural 2.jpg">
+  
   <h3>About Myself</h3>
   
   <div>
