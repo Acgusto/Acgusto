@@ -16,7 +16,7 @@
       🚀  I'm currently working on building small and medium 𝘄𝗲𝗯 𝗽𝗮𝗴𝗲𝘀
     </p>
     <p>
-      🧠  I'm learning 𝗙𝗿𝗼𝗻𝘁-𝗘𝗻𝗱 𝗪𝗲𝗯 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁
+      🧠  I'm currently learning 𝗙𝗿𝗼𝗻𝘁-𝗘𝗻𝗱 𝗪𝗲𝗯 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁
     </p>
     <p>
       ⚡  That's it, i really want to learn more about whatever i can, and that includes computing stuff. I do love research about it and to make my own stuff (and the headaches). 𝗟𝗼𝘃𝗲 𝘁𝗼 𝗨 <𝟯
