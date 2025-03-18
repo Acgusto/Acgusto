@@ -1,5 +1,7 @@
 <div align="center">
-  <img src="./World square mural 2.jpg">
+  <a href="https://www.jirat.jp/about">
+    <img src="./World square mural 2.jpg">
+  </a>
   
   <h3>About Myself</h3>
   
@@ -20,7 +22,10 @@
       ⚡  That's it, i really want to learn more about whatever i can, and that includes computing stuff. I do love research about it and to make my own stuff (and the headaches). 𝗟𝗼𝘃𝗲 𝘁𝗼 𝗨 <𝟯
     </p>
   </div> 
-  <h3>Tech Stack</h3>
+        
+  <h3>
+    Tech Stack
+  </h3>
   
   <div>
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
@@ -36,11 +41,19 @@
     <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
   </div>
 
-  <h3>GitHub Stats</h3>
+  <h3>
+    GitHub Stats
+  </h3>
   
   <div>
     <a href="https://github.com/Acgusto">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Acgusto&show_icons=true&theme=dark&include_all_commits=true&count_private=true">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Acgusto&layout=compact&langs_count=16&theme=dark">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Acgusto&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Acgusto&layout=compact&langs_count=16&theme=github_dark">
   </div>
+
+  <h3>
+    GitHub Trophies
+  </h3>
+  
+  ![](https://github-profile-trophy.vercel.app/?username=Acgusto&theme=onestar&no-frame=false&no-bg=false&margin-w=4)
 </div>
