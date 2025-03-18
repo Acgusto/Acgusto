@@ -19,7 +19,7 @@
       🧠  I'm currently learning 𝗙𝗿𝗼𝗻𝘁-𝗘𝗻𝗱 𝗪𝗲𝗯 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁
     </p>
     <p>
-      ⚡  That's it, i really want to learn more about whatever i can, and that includes computing stuff. I do love research about it and to make my own stuff (and the headaches). 𝗟𝗼𝘃𝗲 𝘁𝗼 𝗨 <𝟯
+      ⚡  That's it, i really want to learn more about whatever i can, and that includes computing stuff. I do love research about it and make my own stuff (and the headaches). 𝗟𝗼𝘃𝗲 𝘁𝗼 𝗨 <𝟯
     </p>
   </div> 
         
