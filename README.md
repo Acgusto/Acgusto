@@ -50,6 +50,10 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Acgusto&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Acgusto&layout=compact&langs_count=16&theme=github_dark">
   </div>
-      
-  ![](https://github-profile-trophy.vercel.app/?username=Acgusto&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+  <h3>
+    GitHub Throphies
+  </h3>
+  
+  ![](https://github-profile-trophy.vercel.app/?username=Acgusto&theme=darkhub&no-frame=false&no-bg=true&margin-w=4)
 </div>
